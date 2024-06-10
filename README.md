@@ -1,12 +1,12 @@
 <h2 align="center">Hola, mi nombre es Ana 👋🏻.</h2>
 
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yngibaes.yngibaes&left_color=darkmagenta&right_color=violet"  />
 
 ###
 
 <br clear="both">
+
+###
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
@@ -14,9 +14,12 @@
 
 ###
 
-<h3 align="left">Habilidades técnicas. 😸</h3>
+<br clear="both">
 
 ###
+
+<h3 align="left">Habilidades técnicas. 😸</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -52,9 +55,12 @@
 
 ###
 
-<h3 align="left">Estadísticas 🤯</h3>
+<br clear="both">
 
 ###
+
+<h3 align="left">Estadísticas 🤯</h3>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yngibaes&locale=es&mode=weekly&theme=rose_pine&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
@@ -64,9 +70,12 @@
 
 ###
 
-<h3 align="left">Músiquita 🎹</h3>
+<br clear="both">
 
 ###
+
+<h3 align="left">Músiquita 🎹</h3>
+
 
 <div align="left">
     <img height="350px" src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" style="margin: 0px 15px"/>
@@ -77,9 +86,11 @@
 
 ###
 
-<h3 align="left">Encuéntrame en 😋</h3>
+<br clear="both">
 
 ###
+
+<h3 align="left">Encuéntrame en 😋</h3>
 
 <div align="center">
   <a href="www.linkedin.com/in/anam-vamaya" target="_blank">
