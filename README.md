@@ -70,14 +70,14 @@
 
 ###
 
+<h3 align="left">Músiquita 🎹</h3>
+
+###
+
 <br clear="both">
 
-<div align="right">
-  <a href="https://open.spotify.com/user/936rxdrfizbzvvkulppb4w9dm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=615656&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="left">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=615656&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ###
