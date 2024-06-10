@@ -10,7 +10,7 @@
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
-<h5 align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</h5>
+<h4 align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</h4>
 
 ###
 
@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yngibaes&locale=es&mode=weekly&theme=rose_pine&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngibaes&theme=material-palenight&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
@@ -70,12 +68,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
-    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" style="margin: 0px 10px"/>
+    <img height="350px" src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" style="margin: 0px 15px"/>
     <a href="https://open.spotify.com/user/936rxdrfizbzvvkulppb4w9dm">
-      <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played" style="margin: 0px 10px" />
+      <img height="350px" src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played" style="margin: 0px 15px" />
     </a>
 </div>
 
