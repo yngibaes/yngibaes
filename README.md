@@ -73,9 +73,9 @@
 <br clear="both">
 
 <div align="left">
-    <img width="10px" src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" style="margin: 0 10"/>
+    <img height="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" style="margin: 0px 10px"/>
     <a href="https://open.spotify.com/user/936rxdrfizbzvvkulppb4w9dm">
-      <img width="550px" src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played" style="margin: 0 10" />
+      <img height="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played" style="margin: 0px 10px" />
     </a>
 </div>
 
