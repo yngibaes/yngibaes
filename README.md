@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<div align="center" style="float">>
+<div align="center" float:clear>
 <div align="left">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" />
 </div> 
