@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left" style="float">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="float">>
 <div align="left">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=b889d2&bar_color_cover=true" />
 </div> 
