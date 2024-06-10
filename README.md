@@ -10,7 +10,7 @@
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
-<h4 align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</h4>
+<p align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</p>
 
 ###
 
