@@ -10,10 +10,6 @@
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
-###
-
-<br clear="both">
-
 <h5 align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</h5>
 
 ###
@@ -77,7 +73,7 @@
 <br clear="both">
 
 <div align="left">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=615656&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ede3f2&interchange=true&bar_color=ab19c8&bar_color_cover=false)]]
 </div>
 
 ###
