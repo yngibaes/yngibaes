@@ -73,7 +73,7 @@
 <br clear="both">
 
 <div align="left">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ede3f2&interchange=true&bar_color=ab19c8&bar_color_cover=false)]]
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=936rxdrfizbzvvkulppb4w9dm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ede3f2&interchange=true&bar_color=ab19c8&bar_color_cover=false)]]
 <div align="right">
   <a href="https://open.spotify.com/user/936rxdrfizbzvvkulppb4w9dm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played"  />
