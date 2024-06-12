@@ -10,7 +10,7 @@
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
-<p align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo Golang y React Native</p>
+<p align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo React Native</p>
 
 ###
 
@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
