@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">Músiquita 🎹</h3>
+/*<h3 align="left">Músiquita 🎹</h3>
 
 
 <div align="left">
@@ -80,7 +80,7 @@
     <a href="https://open.spotify.com/user/936rxdrfizbzvvkulppb4w9dm">
       <img height="350px" src="https://spotify-recently-played-readme.vercel.app/api?user=936rxdrfizbzvvkulppb4w9dm&count=5&unique=true" alt="Spotify recently played" style="margin: 0px 15px" />
     </a>
-</div>
+</div>*/
 
 ###
 
