@@ -10,6 +10,7 @@
 
 <h3 align="left">Sobre mí 🙋🏻‍♀️</h3>
 
+
 <p align="left">🌔 Tecnóloga en Análisis y desarrollo de Software<br>🌱 Estoy aprendiendo React Native</p>
 
 ###
@@ -72,11 +73,8 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <h3 align="left">Encuéntrame en 😋</h3>
+
 
 <div align="center">
   <a href="www.linkedin.com/in/anam-vamaya" target="_blank">
