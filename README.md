@@ -62,7 +62,6 @@
 
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=slateorange&showIcons=false&preferLogin=true&Background=DD2727">    <img  alt="yngibaes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yngibaes?cardType=level-alternate&theme=slateorange&showIcons=false&preferLogin=true&Background=DD2727" />  </a>
   <img src="https://streak-stats.demolab.com?user=yngibaes&locale=es&mode=weekly&theme=rose_pine&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngibaes&theme=material-palenight&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yngibaes&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
